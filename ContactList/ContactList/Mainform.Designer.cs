@@ -47,7 +47,7 @@
             this.btnAddContact.Name = "btnAddContact";
             this.btnAddContact.Size = new System.Drawing.Size(205, 23);
             this.btnAddContact.TabIndex = 1;
-            this.btnAddContact.Text = "Thêm liên hệ";
+            this.btnAddContact.Text = "Thêm liên hệ:";
             this.btnAddContact.UseVisualStyleBackColor = true;
             this.btnAddContact.Click += new System.EventHandler(this.btnAddContact_Click);
             // 
