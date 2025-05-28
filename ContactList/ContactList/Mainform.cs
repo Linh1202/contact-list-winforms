@@ -23,7 +23,6 @@ namespace ContactList
         }
 
         private void btnAddContact_Click(object sender, EventArgs e)
-        {
-        }
+        {        }
     }
 }
